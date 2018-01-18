@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com NewXMLSchema1.xsd ">
+  <to>p:to</to>
+  <from>p:from</from>
+  <heading>p:heading</heading>
+  <body>p:body</body>
+</note>
+
